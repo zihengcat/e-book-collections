@@ -20,7 +20,11 @@ Some e-books I have read and recommend.
 - 图解 TCP/IP
 - 图解 HTTP
 
-## UNIX/Linux
+## Machine Learning
+
+- Machine Learning in Action
+
+## UNIX & Linux
 
 - 鳥哥的 Linux 私房菜
 - Unix/Linux 编程实践教程
@@ -50,7 +54,5 @@ Some e-books I have read and recommend.
 
 ### JavaScript
 
-## Machine Learning
-
-- Machine Learning in Action
+## Other
 
