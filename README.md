@@ -47,6 +47,8 @@ Some E-Books I have read and recommend.
 
 ### Java
 
+- Thinking in Java
+
 ### Python
 
 - A Byte of Python
