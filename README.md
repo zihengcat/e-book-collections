@@ -1,4 +1,4 @@
-# E-Book-Collections
+# E-Book Collections
 
 Some E-Books I have read and recommend.
 
@@ -27,7 +27,7 @@ Some E-Books I have read and recommend.
 ## UNIX & Linux
 
 - 鳥哥的 Linux 私房菜
-- Unix/Linux 编程实践教程
+- UNIX/Linux 编程实践教程
 - The UNIX Programming Environment
 - Advanced Programming in the UNIX Environment
 
@@ -48,6 +48,7 @@ Some E-Books I have read and recommend.
 ### Java
 
 - Thinking in Java
+- Effective Java
 
 ### Python
 
