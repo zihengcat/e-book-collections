@@ -49,6 +49,7 @@ Some E-Books I have read and recommend.
 ### Java
 
 - Thinking in Java
+- Thinking in Enterprise Java
 - Effective Java
 
 ### Python
