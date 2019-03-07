@@ -43,6 +43,7 @@ Some E-Books I have read and recommend.
 
 ### C++
 
+- C++ Essentials
 - C++ Primer
 - Effective C++
 
