@@ -40,7 +40,7 @@ Some E-Books I have read and recommend.
 
 ## Cloud Native
 
-- Docker — 从入门到实践
+- Docker - 从入门到实践
 
 ## Programming Languages
 
@@ -62,6 +62,7 @@ Some E-Books I have read and recommend.
 - Thinking in Java
 - Thinking in Enterprise Java
 - Effective Java
+- 深入理解 Java 虚拟机
 
 ### Python
 
