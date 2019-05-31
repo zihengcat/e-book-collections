@@ -1,6 +1,6 @@
 # E-Book Collections
 
-Some E-Books I have read and recommend.
+Some e-books I have read and recommend.
 
 ## Computer Science
 
@@ -13,6 +13,10 @@ Some E-Books I have read and recommend.
 - Algorithms
 - Data Structures and Algorithm Analysis in C++
 - Learning JavaScript Data Structures and Algorithms
+
+## Operating Systems
+
+- Modern Operating Systems
 
 ## Networks
 
