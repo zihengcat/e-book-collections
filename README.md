@@ -68,17 +68,11 @@ Some *e-books* I have read and recommended.
 ### Java
 
 - Java Language and Virtual Machine Specifications
-
 - Thinking in Java
-
 - Thinking in Enterprise Java
-
 - Effective Java
-
 - Java Concurrency in Practice
-
 - 深入理解 Java 虚拟机
-
 - 深入理解 Java 内存模型
 
 ### Python
