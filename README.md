@@ -28,11 +28,6 @@ Some *e-books* I have read and recommended.
 
 - Programming Language Pragmatics
 
-## Machine Learning
-
-- Machine Learning in Action
-- Dive into Deep Learning
-
 ## UNIX & Linux
 
 - 鳥哥的 Linux 私房菜
@@ -45,6 +40,15 @@ Some *e-books* I have read and recommended.
 - SQL in 10 Minutes, Sams Teach Yourself
 - Elasticsearch: The Definitive Guide
 - Redis 设计与实现
+
+## Machine Learning
+
+- Machine Learning in Action
+- Dive into Deep Learning
+
+## Distributed Systems
+
+- Parallel Programming with Python
 
 ## Cloud Native
 
