@@ -18,6 +18,7 @@ Some *e-books* I have read and recommended.
 ## Operating Systems
 
 - Modern Operating Systems
+- 30 天自制操作系统
 
 ## Networks
 
