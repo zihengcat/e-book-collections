@@ -19,6 +19,7 @@ Some *e-books* I have read and recommended.
 
 - Modern Operating Systems
 - 30 天自制操作系统
+- 操作系统真象还原
 
 ## Computer Networks
 
