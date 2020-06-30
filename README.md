@@ -73,6 +73,10 @@ Some *e-books* I have read and recommended.
 - Docker - 从入门到实践
 - Kubernetes in Action
 
+## DevOps
+
+- 持续交付：发布可靠软件的系统方法
+
 ## Web Development
 
 - Spring in Action
