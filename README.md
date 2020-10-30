@@ -89,6 +89,9 @@ Some *e-books* I have read and recommended.
 - 码农翻身：用故事给技术加点料
 - 观止：微软创建 NT 和未来的夺命狂奔
 - 浪潮之巅
+- 计算机是怎样跑起来的
+- 程序是怎样跑起来的
+- 网络是怎样连接的
 
 ## Programming Languages
 
